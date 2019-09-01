@@ -5,3 +5,4 @@
 - 推理游戏
 - 创建照片马赛克
 - Grey Relation Analysis
+- Others
