@@ -9,3 +9,4 @@
     - CompilePy.py
     - countLines.py
     - upgradeAllPackage.py
+    - binary2pic.py
