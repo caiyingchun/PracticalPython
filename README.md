@@ -6,6 +6,6 @@
 - 创建照片马赛克
 - Grey Relation Analysis
 - Others
- - CompilePy.py
- - countLines.py
- - upgradeAllPackage.py
+    - CompilePy.py
+    - countLines.py
+    - upgradeAllPackage.py
